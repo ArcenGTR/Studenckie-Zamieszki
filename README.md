@@ -8,8 +8,6 @@ Studenckie Zamieszki (Student Riots)
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Semester%25201%2520Project-00AA00%3Fstyle%3Dfor-the-badge%26logoColor%3Dwhite" alt="Academic Project"/>
 </p>
 
-Note: Please replace the generic icons above with specific badges for the programming language and framework used (e.g., C#, Unity, JavaScript, etc.).
-
 🎮 Overview
 
 "Studenckie Zamieszki" is a game project developed during the first semester of software engineering classes by a team of three. The primary goal of the project was to implement fundamental game mechanics from scratch, providing practical experience in low-level game development and physics implementation.
