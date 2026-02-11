@@ -42,10 +42,9 @@ Coding the core Character Interaction logic.
 
 This project was a great opportunity to develop programming skills, successfully collaborate in a team, and gain hands-on experience in building complex game mechanics from scratch.
 
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D562DAQFewd_-lV0pgw/profile-treasury-image-shrink_800_800/B56ZYAjsJJGsAY-/0/1743766079216?e=1762369200&v=beta&t=VWMrvjGtTvJHgPm9Wb5msRHzGZkFNiUvF2wAphpfMhE">
-  <img src="https://media.licdn.com/dms/image/v2/D562DAQGCmTQWZrAJDw/profile-treasury-image-shrink_800_800/B56ZYAjkAUH0AY-/0/1743766045487?e=1762369200&v=beta&t=hmW_d90mOlCTLvsYz2q_95JYUdiGsyY2mvyVxVgwtAY">
-  <img src="https://media.licdn.com/dms/image/v2/D562DAQGtijtugIJJRA/profile-treasury-image-shrink_800_800/B56ZYAjftVGoAc-/0/1743766027936?e=1762369200&v=beta&t=XPw4hR-DHnLsQE6wvHAkWQ50Kta3ImchN7dl3JXDbWw">
-  <img src="https://media.licdn.com/dms/image/v2/D562DAQEie_k2oa4YXg/profile-treasury-image-shrink_800_800/B56ZYAjdFTGsAc-/0/1743766017665?e=1762369200&v=beta&t=3dplAY7F-gBUQXpDZjMSy0s8TPtLMp6CG6gv6Ljsqcw">
-  <img src="https://media.licdn.com/dms/image/v2/D562DAQHekmIoHXp-6w/profile-treasury-image-shrink_800_800/B56ZYAjWUoH0AY-/0/1743765990050?e=1762369200&v=beta&t=z6HR9MrYhYvoMgeGL6PCI9FV_H51nq3VPBlHqXIEYe4">
-</p>
+![1743766079216](https://github.com/user-attachments/assets/39515d32-a969-4b39-9027-ff6ad8b02bc2)
+![1743766045487](https://github.com/user-attachments/assets/1982f19c-6ace-4f6b-98bf-d67ad7f3eab4)
+![1743766027936](https://github.com/user-attachments/assets/ce2dcf63-0870-4f45-aea0-5931f304af1d)
+![1743766017665](https://github.com/user-attachments/assets/2ed2c52c-30de-4508-9512-1582abea473e)
+![1743765990050](https://github.com/user-attachments/assets/ea77c882-e5ce-401a-9401-f05129f55955)
+
